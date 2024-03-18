@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.destaque{
+    color: purple;
+    font-weight: bolder;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.titulo-centralizaod{
+    text-align: center;
+}
+
+.princ{
+    margin-bottom: 0%;
+    text-align: center;
+    background-color: lightgray;
+}
+
+p{
+    font-size: 20px;;
+}
+
+.beneficios{
+    margin-top: 0%;
+    padding: 25px;
+    background-color: lightpink;
+}
+
+.lista-beneficios{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+#beneficios{
+    margin: 25px;
+    text-align: center;
+}
+
+#img-beneficio{
+    width: 50%;
+}
