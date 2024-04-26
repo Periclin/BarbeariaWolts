@@ -78,3 +78,60 @@ label{
     box-shadow: 2px 2px 7px rgba(9, 23, 49, 0.692);
     border: 0;
 }
+
+/*Infos*/
+
+.infos{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#iop1{
+    width: 15px;
+    height: 15px;
+}
+
+#iop2{
+    margin-left: 51px;
+    width: 15px;
+    height: 15px;
+}
+
+#iop3{
+    margin-left: 35px;
+    width: 15px;
+    height: 15px;
+}
+
+#frase{
+    color: rgba(14, 140, 14, 0.744);
+    font-size: 18px;
+}
+
+#frase2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgba(14, 140, 14, 0.744);
+    font-size: 18px;
+}
+
+select{
+    width: 70px;
+    margin-bottom: 25px;
+    text-align: center;
+    justify-content: center;
+}
+
+/*Footer*/
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 50px;
+}
+
+footer img{
+    width: 200px;
+}
